@@ -42,13 +42,13 @@ python main.py
 ## Sample Outputs
 
 ### Technical Support
-![Technical Support](screenshots/technical.png)
+![Technical Support](technical.png)
 
 ### Billing Support
-![Billing Support](screenshots/billing.png)
+![Billing Support](billing.png)
 
 ### General Inquiry
-![General Inquiry](screenshots/general.png)
+![General Inquiry](general.png)
 
 ## Conclusion
 
