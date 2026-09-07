@@ -8,12 +8,12 @@ Technical Support, Billing Support, and General Inquiry
 ## Approach/Algorithm 
 
 1. Take the customer message as input.
-2. Convert the message into individual words.
-3. Split the message into individual words.
-4. Remove punctuation from the words.
-5. Remove common stop words.
-6. Check the remaining words against technical and billing keywords.
-7. Return the appropriate category:
+
+2. Split the message into individual words.
+3. Remove punctuation from the words.
+4. Remove common stop words.
+5. Check the remaining words against technical and billing keywords.
+6. Return the appropriate category:
    - Technical Support
    - Billing Support
    - General inquiry 
@@ -29,14 +29,15 @@ Technical Support, Billing Support, and General Inquiry
 
 ## How to Run 
 
-1. Make sure Pyhton is installed.
+1. Make sure Python is installed.
 2. Open the project folder in VS code or terminal.
 3. Run the following command:
 
 '''bash
 python main.py
+'''
 
-4. Enter a coustomer message when promted.
+4. Enter a coustomer message when prompted.
 5. The program will classify the message into Technical Support,Billing Support, or General Inquiry
 
 ## Sample Outputs
